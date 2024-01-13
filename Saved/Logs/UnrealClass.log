@@ -1172,3 +1172,4 @@ LogInit: Object subsystem initialized
 [2024.01.13-02.11.28:901][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.01.13-02.11.28:906][542]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2024.01.13-02.11.28:906][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-02.12.00:040][761]LogDerivedDataCache: C:/Users/xxhih/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.105 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 7654 files in 9178 folders with total size 493 MiB.
